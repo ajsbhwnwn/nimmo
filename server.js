@@ -34,7 +34,8 @@ const MODEL_MAPPING = {
   'nemotron-120b': 'nvidia/nemotron-3-super-120b-a12b',
   'minimax-m3': 'minimaxai/minimax-m3',
   'gpt-oss-120b': 'openai/gpt-oss-120b',   // already mapped above as claude-3-opus, added as its own key too
-  'gpt-oss-20b': 'openai/gpt-oss-20b'      // already mapped above as claude-3-sonnet, added as its own key too
+  'gpt-oss-20b': 'openai/gpt-oss-20b'
+  'kimi-k2.5': 'moonshotai/kimi-k2.5',// already mapped above as claude-3-sonnet, added as its own key too
 };
 
 // Health check endpoint
