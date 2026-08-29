@@ -29,7 +29,12 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
-  'glm-5.2': 'z-ai/glm-5.2'   // confirmed NIM model ID
+  'glm-5.2': 'z-ai/glm-5.2',
+  'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro',
+  'nemotron-120b': 'nvidia/nemotron-3-super-120b-a12b',
+  'minimax-m3': 'minimaxai/minimax-m3',
+  'gpt-oss-120b': 'openai/gpt-oss-120b',   // already mapped above as claude-3-opus, added as its own key too
+  'gpt-oss-20b': 'openai/gpt-oss-20b'      // already mapped above as claude-3-sonnet, added as its own key too
 };
 
 // Health check endpoint
