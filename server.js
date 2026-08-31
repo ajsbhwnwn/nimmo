@@ -32,6 +32,7 @@ const MODEL_MAPPING = {
   'glm-5.2': 'z-ai/glm-5.2',
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepkseek-v4-flash': 'deepseek-v4-flash-0731',
+  'google/gemma-4-31b-it': 'google/gemma-4-31b-it',
   'nemotron-120b': 'nvidia/nemotron-3-super-120b-a12b',
   'minimax-m3': 'minimaxai/minimax-m3',
   'gpt-oss-120b': 'openai/gpt-oss-120b',   // already mapped above as claude-3-opus, added as its own key too
