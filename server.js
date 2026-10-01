@@ -30,6 +30,7 @@ const MODEL_MAPPING = {
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'glm-5.2': 'z-ai/glm-5.2',
+  'glm-5.3': 'z-ai/glm-5.3',
   'deepseek-v4-pro': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepkseek-v4-flash': 'deepseek-v4-flash-0731',
   'nemotron-mini': 'nvidia/nemotron-mini-4b-instruct',
